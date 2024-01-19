@@ -2,7 +2,8 @@
 name = "wunplots"
 version = "0.1.1"
 description = "Plotting utilities"
-authors = ["Philippe Lacroix-Ouellette <philippe.lacroix-ouellette@hec.ca>"]
+authors = ["Philippe Lacroix-Ouellette <philippe.lacroix.ouellette@gmail.com>"]
+license = "LICENSE.txt"
 readme = "README.md"
 
 [tool.poetry.dependencies]
